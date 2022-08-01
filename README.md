@@ -67,4 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### https://create-react-app.dev/docs/using-https-in-development/
+### `set HTTPS=true&&npm start`
+https://create-react-app.dev/docs/using-https-in-development/
